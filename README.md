@@ -108,9 +108,9 @@ Make sure to:
 
 ## 🧑‍💻 Author
 
-Yash Kumar Meena  
-B.Tech CSE, IIIT Nagpur  
-Contact: yashbt22csd@gmail.com
+Aniket Sharma  
+B.Tech ECE, IIIT Nagpur  
+Contact: aniketsharma.ani04@gmail.com
 
 ---
 
